@@ -1,0 +1,47 @@
+[
+    {
+        "repo_id": 26729,
+        "repo_name": "Scribe-py",
+        "gh_issue_number": 1,
+        "issue_title": "RDI score",
+        "created_at": "2020-03-06T00:00:00.000Z",
+        "closed_at": "2020-03-06T00:00:00.000Z",
+        "diffdate": 0.0
+    },
+    {
+        "repo_id": 26731,
+        "repo_name": "dynamo-release",
+        "gh_issue_number": 3,
+        "issue_title": "Cannot install package",
+        "created_at": "2019-07-12T00:00:00.000Z",
+        "closed_at": "2019-07-13T00:00:00.000Z",
+        "diffdate": 1.0
+    },
+    {
+        "repo_id": 26731,
+        "repo_name": "dynamo-release",
+        "gh_issue_number": 5,
+        "issue_title": "How to control the directionality?",
+        "created_at": "2019-07-17T00:00:00.000Z",
+        "closed_at": "2019-07-18T00:00:00.000Z",
+        "diffdate": 1.0
+    },
+    {
+        "repo_id": 26731,
+        "repo_name": "dynamo-release",
+        "gh_issue_number": 9,
+        "issue_title": "Failed to install package, because of statsmodels",
+        "created_at": "2019-10-21T00:00:00.000Z",
+        "closed_at": "2019-10-22T00:00:00.000Z",
+        "diffdate": 0.0
+    },
+    {
+        "repo_id": 26731,
+        "repo_name": "dynamo-release",
+        "gh_issue_number": 10,
+        "issue_title": "dynamo-notebooks/NASC_seq/NASC_seq_analysis.ipynb SparseVFC error",
+        "created_at": "2019-11-07T00:00:00.000Z",
+        "closed_at": "2020-02-20T00:00:00.000Z",
+        "diffdate": 104.0
+    }
+]
